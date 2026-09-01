@@ -1,7 +1,6 @@
 # DATA SCIENCE EXERCISES
 
-This repository collects data science exercises, example notebooks, and small projects for learning and practice. It is organized so you can open notebooks, run experiments, and add your own solutions.
-
+This repository contains data science exercises and small projects for learning and practice. 
 ## Repository structure
 
 - notebooks/ - Jupyter notebooks with exercises and worked examples
