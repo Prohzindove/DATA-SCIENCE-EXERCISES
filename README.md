@@ -1,4 +1,4 @@
-# DATA SCIENCE EXERCISES-SQL Fundamentals
+# DATA SCIENCE EXERCISES-SQL FUNDAMENTALS
 
 This folder contains exercises demonstrating my understanding of fundamental SQL concepts and functions. The exercises cover core SQL operations such as SELECT, GROUP BY, ORDER BY, HAVING, and aggregate functions.
 
